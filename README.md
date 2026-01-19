@@ -24,12 +24,12 @@ The focus is on transforming raw sales data into meaningful business insights us
 ---
 
 ## 📁 Repository Structure
-Task-3-SQL-Basics/
--│
--├── queries_task3.sql # SQL queries with comments
--├── sales_summary.csv # Exported aggregation results
--├── Sample - Superstore.csv # Original dataset
--└── README.md # Documentation
+- Task-3-SQL-Basics/
+- │
+- ├── queries_task3.sql # SQL queries with comments
+- ├── sales_summary.csv # Exported aggregation results
+- ├── Sample - Superstore.csv # Original dataset
+- └── README.md # Documentation
 
 ---
 
